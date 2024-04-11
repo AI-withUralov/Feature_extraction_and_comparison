@@ -8,8 +8,6 @@ Feature extraction is a crucial task in computer vision, enabling the identifica
 The **VGG16 model**, pre-trained on the ImageNet dataset, is renowned for its effectiveness in feature extraction.
 
 **Features**
-<p style="font-size: 20px;">The VGG16 model is employe</p>
-
 
 **Feature Extraction**: The VGG16 model is employed to extract rich and informative features from two input images.
 
